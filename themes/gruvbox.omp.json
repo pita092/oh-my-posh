@@ -31,8 +31,8 @@
             "{{ if gt .Behind 0 }}#B388FF{{ end }}"
           ],
           "foreground": "#282828",
-          "leading_diamond": "\ue0b6",
-          "powerline_symbol": "\ue0b0",
+          "leading_diamond": "",
+          "powerline_symbol": "",
           "properties": {
             "branch_max_length": 25,
             "fetch_stash_count": true,
